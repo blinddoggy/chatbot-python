@@ -1,0 +1,8 @@
+1. Instalar la version 1.0.0 de chatterbot
+2. Upgrade a la libreria PyYaml
+   -pip install --upgrade PyYaml
+3. Cambiar el metodo yaml.load por yaml.full_load() en el corpus
+4. Solucionar el error de loggeo
+   -import logging  
+   -logger = logging.getLogger() 
+   -logger.setLevel(logging.CRITICAL)
