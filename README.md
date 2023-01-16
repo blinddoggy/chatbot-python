@@ -11,10 +11,10 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-OS X & Linux:
+Install ChatterBot
 
 ```sh
-npm install my-crazy-module --save
+pip install chatterbot
 ```
 
 Windows:
