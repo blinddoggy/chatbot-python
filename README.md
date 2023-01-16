@@ -1,5 +1,5 @@
 # Chat Bot Python
-> This is chatbot in python and the python module chatterbot.
+> This is python chat bot and with chatterbot module.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
