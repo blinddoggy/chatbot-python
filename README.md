@@ -1,5 +1,5 @@
 # Chat Bot Python
-> Short blurb about what your product does.
+> This is chatbot in python and the python module chatterbot.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
