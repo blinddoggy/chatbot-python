@@ -17,10 +17,10 @@ Install ChatterBot
 pip install chatterbot
 ```
 
-Windows:
+Upgrade library:
 
 ```sh
-edit autoexec.bat
+pip install --upgrade PyYaml
 ```
 
 ## Usage example
